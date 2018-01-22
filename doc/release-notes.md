@@ -1,7 +1,7 @@
 0.8.6.1 changes
 =============
 
-- Coin Control - experts only GUI selection of inputs before you send a transaction
+- Coin Control - experts only GUI selection of inputs before you send a transaction.
 
 - Disable Wallet - reduces memory requirements, helpful for miner or relay nodes
 
