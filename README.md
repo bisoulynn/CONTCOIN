@@ -2,7 +2,7 @@
 <h1>CONT Coin integration / staging tree</h1>
 <p><img src="http://cryptocont.com/images/contcoin.png"></p>
 <h2>What is CONT Coin </h2>
-<p>Contcoin is a powerful open source digital currency with monetary properties likened to Bitcoin, Litecoin and a myriad of countless alt coins, but under the hood is something very different</p>
+<p>Cont coin is a powerful open source digital currency with monetary properties likened to Bitcoin, Litecoin and a myriad of countless alt coins, but under the hood is something very different</p>
 <p>Contcoin is a highly upgraded and customised piece of software compared to the Bitcoin and Litecoin protocols.</p>
 <p>Based from BTC, LTC evolved, from which Contcoin was born, with the intent to expand, experiment, and build onto the blockchain technology in a manner open to all for participation.</p>
 <p>Website : <a href="http://cryptocont.com" target="_blank">http://cryptocont.com</a></p>
