@@ -6,7 +6,7 @@
 <p>Contcoin is a highly upgraded and customised piece of software compared to the Bitcoin and Litecoin protocols.</p>
 <p>Based from BTC, LTC evolved, from which Contcoin was born, with the intent to expand, experiment, and build onto the blockchain technology in a manner open to all for participation.</p>
 <p>Website : <a href="http://cryptocont.com" target="_blank">http://cryptocont.com</a></p>
-<p>Explorer : <a href="http://165.227.70.229" target="_blank">http://165.227.70.229</a></p>
+<p>Explorer : <a href="http://contcoinexplorer.com" target="_blank">http://contcoinexplorer.com</a></p>
 
 <h2>Spec</h2>
 <ul>
